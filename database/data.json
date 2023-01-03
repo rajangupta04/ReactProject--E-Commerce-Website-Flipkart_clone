@@ -1,0 +1,517 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productPic": "https://rukminim1.flixcart.com/image/832/832/k0zlsi80/jacket/4/h/w/xxl-mens-jkt-009-black-candy-house-original-imafg4hz7xz6pjpr.jpeg?q=70&quot",
+      "brand": "Christy World",
+      "description": "Full Sleeve Solid Men Padded Jacket",
+      "discountPrice": "310",
+      "mrp": "399",
+      "color": "black",
+      "fabric": "nylon",
+      "productType": "jacket",
+      "usage": "male",
+      "rating": "4.5",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 2,
+      "productPic": "https://rukminim1.flixcart.com/image/580/696/kzegk280/t-shirt/2/t/a/xs-t51-bl-eyebogler-original-imagbf5tcgxyyyhp.jpeg?q=50&quot",
+      "brand": "HELMONT ",
+      "description": "Color Block Men Hooded Neck Red, Black T-Shirt",
+      "discountPrice": "317",
+      "mrp": "399",
+      "color": "black",
+      "fabric": "flannel",
+      "productType": "shirt",
+      "usage": "male",
+      "rating": "4.9",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 3,
+      "productPic": "https://rukminim1.flixcart.com/image/832/832/ke0a7ww0/jacket/c/x/r/m-wjjk3119-wrogn-original-imafurzguaqhztpq.jpeg?q=70&quot",
+      "brand": "WROGN",
+      "description": "Full Sleeve Solid Men Bomber Jacket",
+      "discountPrice": "2199",
+      "mrp": "3599",
+      "color": "brown",
+      "fabric": "canvas",
+      "productType": "coat",
+      "usage": "male",
+      "rating": "3.8",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 4,
+      "productPic": "https://rukminim1.flixcart.com/image/832/832/k0zlsi80/jacket/m/h/j/l-mens-jkt-009-mrn-candy-house-original-imafg4hzyjzfffq2.jpeg?q=70&quot",
+      "brand": "Christy World",
+      "description": "Full Sleeve Solid Men Padded Jacket",
+      "discountPrice": "299",
+      "mrp": "599",
+      "color": "red",
+      "fabric": "nylon",
+      "productType": "jacket",
+      "usage": "male",
+      "rating": "4.7",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 5,
+      "productPic": "https://rukminim1.flixcart.com/image/495/594/kdnf98w0hlty2aw-0/jacket/2/u/g/m-1-aw18-zip-jacket-black-way-maniac-original-imafumytf7zgd6dz.jpeg?q=50&quot",
+      "brand": "Christy World",
+      "description": "Full Sleeve Solid Men Padded Jacket",
+      "discountPrice": "399",
+      "mrp": "599",
+      "color": "black",
+      "fabric": "cotton",
+      "productType": "t-shirt",
+      "usage": "male",
+      "rating": "3.0",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 6,
+      "productPic": "https://rukminim1.flixcart.com/image/495/594/kz5vwy80/jacket/b/n/1/l-no-of130006-124-furo-original-imagb8gutzcvfgkr.jpeg?q=50&quot",
+      "brand": "Furo",
+      "description": "Full Sleeve Solid Men Sports Jacke",
+      "discountPrice": "439",
+      "mrp": "699",
+      "color": "green",
+      "fabric": "cotton",
+      "productType": "hoodie",
+      "usage": "male",
+      "rating": "4.0",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 7,
+      "productPic": "https://rukminim1.flixcart.com/image/495/594/kg2l47k0/jacket/f/v/k/xl-aw18-zip-jacket-yellow-way-maniac-original-imafwdg3hqaykzga.jpeg?q=50&quot",
+      "brand": "MANIAC",
+      "description": "Full Sleeve Colorblock Men Bomber Jacket ",
+      "discountPrice": "429",
+      "mrp": "699",
+      "color": "yellow",
+      "fabric": "cotton",
+      "productType": "hoodie",
+      "usage": "male",
+      "rating": "4.0",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 8,
+      "productPic": "https://rukminim1.flixcart.com/image/495/594/xif0q/t-shirt/2/u/3/l-mens-t-d2-brucella-original-imaghyzyty4ugeyg.jpeg?q=50&quot",
+      "brand": "Brucella",
+      "description": "Printed Men Round Neck Grey T-Shirt",
+      "discountPrice": "299",
+      "mrp": "690",
+      "color": "ash",
+      "fabric": "cotton",
+      "productType": "t-shirt",
+      "usage": "male",
+      "rating": "4.9",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 9,
+      "productPic": "https://rukminim1.flixcart.com/image/495/594/l41n2q80/t-shirt/q/n/j/l-1jgrf-013-blk-jugular-original-imagff7wfjvxtdjb.jpeg?q=50&quot",
+      "brand": "JUGULAR",
+      "description": "Printed Men Round Neck Black T-Shirt",
+      "discountPrice": "289",
+      "mrp": "888",
+      "color": "Black",
+      "fabric": "crepe",
+      "productType": "t-shirt",
+      "usage": "male",
+      "rating": "5",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 10,
+      "productPic": "https://rukminim1.flixcart.com/image/495/594/kq9ta4w0/t-shirt/o/t/d/s-723-6-ftx-original-imag4bhzkshdkr68.jpeg?q=50&quot",
+      "brand": "FTX ",
+      "description": "Solid Men Round Neck Blue T-Shirt",
+      "discountPrice": "199",
+      "mrp": "599",
+      "color": "blue",
+      "fabric": "polyster",
+      "productType": "t-shirt",
+      "usage": "male",
+      "rating": "2.5",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 11,
+      "productPic": "https://rukminim1.flixcart.com/image/580/696/xif0q/t-shirt/m/w/a/m-bylrnful-z56-blive-original-imaggnwhufnbx6h6.jpeg?q=50&quot",
+      "brand": "BLIVE",
+      "description": "Printed Men Round Neck Yellow T-Shirt",
+      "discountPrice": "217",
+      "mrp": "999",
+      "color": "yellow",
+      "fabric": "cotton",
+      "productType": "t-shirt",
+      "usage": "male",
+      "rating": "3",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 12,
+      "productPic": "https://rukminim1.flixcart.com/image/580/696/kf1fo280hlty2aw-0/t-shirt/w/s/e/-original-imafdfvvr8hqdu65.jpeg?q=50&quot",
+      "brand": "Urbano Plus ",
+      "description": "Solid Men Henley Neck Dark Blue T-Shirt",
+      "discountPrice": "517",
+      "mrp": "1999",
+      "color": "black",
+      "fabric": "cotton",
+      "productType": "hoodie",
+      "usage": "male",
+      "rating": "3.8",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 13,
+      "productPic": "https://rukminim1.flixcart.com/image/580/696/xif0q/sweatshirt/z/q/7/xxl-222056461-1-monte-carlo-original-imaggbz8t6phwgtz.jpeg?q=50&quot",
+      "brand": "MONTE CARLO",
+      "description": "Full Sleeve Printed Men Sweatshirt",
+      "discountPrice": "117",
+      "mrp": "1399",
+      "color": "red",
+      "fabric": "cotton",
+      "productType": "t-shirt",
+      "usage": "male",
+      "rating": "3.3",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 14,
+      "productPic": "https://rukminim1.flixcart.com/image/580/696/kw104nk0/sweatshirt/u/n/d/xxl-udsws0063-u-s-polo-assn-original-imag8sekzaaqgxrj.jpeg?q=50&quot",
+      "brand": "U.S. POLO ASSN.",
+      "description": "Full Sleeve Graphic Print Me",
+      "discountPrice": "117",
+      "mrp": "999",
+      "color": "black",
+      "fabric": "georgette",
+      "productType": "t-shirt",
+      "usage": "male",
+      "rating": "4.7",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 15,
+      "productPic": "https://rukminim1.flixcart.com/image/580/696/ksj9dow0/sweatshirt/d/r/s/m-maw21ss012b-metronaut-original-imag62rzhz5zyuze.jpeg?q=50&quot",
+      "brand": "METRONAUT",
+      "description": "Full Sleeve Graphic Print M",
+      "discountPrice": "317",
+      "mrp": "3399",
+      "color": "green",
+      "fabric": "cotton",
+      "productType": "t-shirt",
+      "usage": "male",
+      "rating": "4.0",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 16,
+      "productPic": "https://rukminim1.flixcart.com/image/580/696/kzegk280/t-shirt/2/t/a/xs-t51-bl-eyebogler-original-imagbf5tcgxyyyhp.jpeg?q=50&quot",
+      "brand": "HELMONT ",
+      "description": "Color Block Men Hooded Neck Red, Black T-Shirt",
+      "discountPrice": "317",
+      "mrp": "399",
+      "color": "black",
+      "fabric": "flannel",
+      "productType": "shirt",
+      "usage": "male",
+      "rating": "4.9",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 17,
+      "productPic": "https://rukminim1.flixcart.com/image/580/696/xif0q/kids-apparel-combo/o/j/o/6-12-months-kids-dungree-navy-blue-6-12-krijal-original-imagge9na4kgnsyy.jpeg?q=50&quot",
+      "brand": "The Silk Shop ",
+      "description": "Boys Casual Shirt Dungaree",
+      "discountPrice": "317",
+      "mrp": "1298",
+      "color": "white",
+      "fabric": "lenin",
+      "productType": "kidsWear",
+      "usage": "kids",
+      "rating": "5",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 18,
+      "productPic": "https://rukminim1.flixcart.com/image/580/696/xif0q/kids-apparel-combo/t/n/y/9-10-years-brighteye-blk-namma-ooru-trend-original-imaggsfanw2f8bk8.jpeg?q=50&quot",
+      "brand": "NAMMA OORU TREND ",
+      "description": "Boys Casual T-shirt Pant",
+      "discountPrice": "317",
+      "mrp": "399",
+      "color": "black",
+      "fabric": "cotton",
+      "productType": "kidsWear",
+      "usage": "kids",
+      "rating": "4.0",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 19,
+      "productPic": "https://rukminim1.flixcart.com/image/580/696/l55nekw0/kids-apparel-combo/n/y/3/6-7-years-3pc-sm-munif-dresses-original-imagfw8zrpba6vrk.jpeg?q=50&quot",
+      "brand": "SM MUNIF DRESSES",
+      "description": "Girls Party(Festive) Top Pant, Shrug",
+      "discountPrice": "317",
+      "mrp": "399",
+      "color": "pinck",
+      "fabric": "crepe",
+      "productType": "kidsWear",
+      "usage": "kids",
+      "rating": "5",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 20,
+      "productPic": "https://rukminim1.flixcart.com/image/580/696/l1qrjbk0/kids-apparel-combo/9/i/d/2-3-years-197-mustard-kidzarea-original-imagd8u6hvhsdtxt.jpeg?q=50&quot",
+      "brand": "Kidzarea",
+      "description": "Boys Casual Blazer Jean",
+      "discountPrice": "317",
+      "mrp": "399",
+      "color": "yellow",
+      "fabric": "denim",
+      "productType": "kidsWear",
+      "usage": "kids",
+      "rating": "4.0",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 21,
+      "productPic": "https://rukminim1.flixcart.com/image/580/696/krjjde80/kids-apparel-combo/8/n/h/18-24-months-racing-chatni-skii-original-imag5b6zdcmmzqsj.jpeg?q=50&quot",
+      "brand": "SKII ",
+      "description": "Boys Casual T-shirt Dungaree",
+      "discountPrice": "317",
+      "mrp": "399",
+      "color": "white yellow",
+      "fabric": "lenin",
+      "productType": "kidsWear",
+      "usage": "kids3.6",
+      "rating": "4",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 22,
+      "productPic": "https://rukminim1.flixcart.com/image/580/696/l0lbrm80/kids-apparel-combo/x/l/5/12-13-years-3pc-325-new-makhi-check-zolario-original-imagccdeghncztuy.jpeg?q=50&quot",
+      "brand": "Zolario",
+      "description": "Boys Party(Festive) Waistco",
+      "discountPrice": "317",
+      "mrp": "399",
+      "color": "grey",
+      "fabric": "flannel",
+      "productType": "kidsWear",
+      "usage": "kids",
+      "rating": "5",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 23,
+      "productPic": "https://rukminim1.flixcart.com/image/580/696/keg02a80/kids-apparel-combo/u/w/s/6-12-months-boys-202-20-boom-boys-original-imafv4ufspwaccm2.jpeg?q=50&quot",
+      "brand": "Boom Boys",
+      "description": "Boys Casual Shirt Pant, Cap",
+      "discountPrice": "555",
+      "mrp": "999",
+      "color": "olive green",
+      "fabric": "nylon",
+      "productType": "kidsWear",
+      "usage": "kids",
+      "rating": "5",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 24,
+      "productPic": "https://rukminim1.flixcart.com/image/580/696/l5bd5zk0/kids-apparel-combo/6/q/q/4-5-years-t-hf11-rust-alphabets-mars-infiniti-original-imaggypcw9ksnznh.jpeg?q=50&quot",
+      "brand": "Mars Infiniti ",
+      "description": "Boys Casual T-shirt Shorts",
+      "discountPrice": "717",
+      "mrp": "445",
+      "color": "blue",
+      "fabric": "spandex",
+      "productType": "kidsWear",
+      "usage": "kids",
+      "rating": "3.0",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 25,
+      "productPic": "https://rukminim1.flixcart.com/image/580/696/xif0q/kids-apparel-combo/y/l/3/2-3-years-gmw-dungaree01-smartbazar-original-imaggzjwmcddxfhk.jpeg?q=50&quot",
+      "brand": "smartbazar",
+      "description": "Girls Party(Festive) Shirt Dungaree, Top, Belt",
+      "discountPrice": "177",
+      "mrp": "299",
+      "color": "red white",
+      "fabric": "lenin",
+      "productType": "kidsWear",
+      "usage": "kids",
+      "rating": "4.8",
+      "siz": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "id": 27,
+      "productPic": "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/h/8/m/m-prntrbltee-hf-whired-urbano-fashion-original-imaggtzbqy9zvrrc.jpeg?q=70",
+      "brand": "Urbano Fashion ",
+      "description": "Men Printed Round Neck Red, White T-Shirt",
+      "discountPrice": "420",
+      "mrp": "996",
+      "color": "pink",
+      "fabric": "cotton",
+      "productType": "T-shirt",
+      "usage": "Male",
+      "rating": "4",
+      "size": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ]
+    },
+    {
+      "productPic": "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/i/3/s/l-bul-22bf2-bl2-ta-bullmer-original-imaghnzhknd6ms4x.jpeg?q=70",
+      "brand": "Bullmer ",
+      "description": "asdfshfsjfhshfsfadgf fgdjjyfdfdy",
+      "discountPrice": "500",
+      "mrp": "600",
+      "color": "black",
+      "fabric": "cotton",
+      "productType": "tshirt",
+      "usage": "Male",
+      "rating": "3.5",
+      "size": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ],
+      "id": 28
+    }
+  ]
+}
